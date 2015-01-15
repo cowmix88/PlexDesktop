@@ -1,0 +1,19 @@
+{
+  "name": "PlexDesktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowmix88/PlexDesktop.git"
+  },
+  "author": "CowMix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cowmix88/PlexDesktop/issues"
+  },
+  "homepage": "https://github.com/cowmix88/PlexDesktop"
+}
